@@ -6,4 +6,7 @@ repository will help them access the changes that you make, without them having 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	You might want to review any changes that some other contributor has made before you pull it onto your local computer. So it makes sense to have manual pulling rather than automatic.
 
-
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	A fork is used to create a copy of somebody's repository on GitHub in your own GitHub account. You would use it when you want to contribute to somebody else's project or when you want to use their project (possibly with some modifications) for some work of your own.
+Clones are the copies of GitHub repositories, or repositories on your local computer, copied onto your local computer. You would clone a repository so that you can make changes to it locally.
+A branch is a label given to a commit. You would create a branch when you want to make a different version of your project and you want to retain both the old and new versions and work on both simultaneously.
