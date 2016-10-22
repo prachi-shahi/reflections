@@ -16,3 +16,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	I would probably use email or Google Drive to collaborate without using Git or GitHub. Which one is easier depends on how many changes you make to your project. If it is a report or similar where you and your teammates are adding to different sections of the file, it would be easier to just email your part of the report to the person who will compile it, as it is unlikely that you will revert back to an older version (which, well, is recoverable but not as easily as it is on Git). But when you're working on something that involves coding, using Git and GitHub is a better, simpler option, especially once you get the hang of it.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When you want to work on different modules of a project, it makes sense to have different branches. When you don't have a very complex problem to solve, it's just simpler to use only master branch. 
